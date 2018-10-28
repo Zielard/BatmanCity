@@ -1,0 +1,828 @@
+# depslib dependency file v1.0
+1507015881 source:d:\praca\uniwersytetlodzki\pgk\zajecia1\ogl\g10-codeblocks\glscene.cpp
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<cmath>
+	"glscene.h"
+
+1506981311 d:\praca\uniwersytetlodzki\pgk\zajecia1\ogl\g10-codeblocks\glscene.h
+
+1506982296 source:d:\praca\uniwersytetlodzki\pgk\zajecia1\ogl\g10-codeblocks\oglmain.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	"glscene.h"
+
+1506978696 source:c:\users\zielu\desktop\g10-codeblocks\oglmain.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	"glscene.h"
+
+1506977711 c:\users\zielu\desktop\g10-codeblocks\glscene.h
+
+1426343640 c:\users\zielu\desktop\g10-codeblocks\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437547542 c:\users\zielu\desktop\g10-codeblocks\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426343640 c:\users\zielu\desktop\g10-codeblocks\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1507640027 source:c:\users\zielu\desktop\g10-codeblocks\glscene.cpp
+	<windows.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<cmath>
+	"glscene.h"
+
+1490901536 c:\program files\assimp\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1490901536 c:\program files\assimp\include\assimp\types.h
+	<sys/types.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1490901536 c:\program files\assimp\include\assimp\defs.h
+
+1490901536 c:\program files\assimp\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1490901536 c:\program files\assimp\include\assimp\compiler\pushpack1.h
+
+1490901536 c:\program files\assimp\include\assimp\compiler\poppack1.h
+
+1490901536 c:\program files\assimp\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1490901536 c:\program files\assimp\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1490901536 c:\program files\assimp\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1490901536 c:\program files\assimp\include\assimp\matrix4x4.h
+	"vector3.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1490901536 c:\program files\assimp\include\assimp\quaternion.h
+
+1490901536 c:\program files\assimp\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1490901536 c:\program files\assimp\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1490901536 c:\program files\assimp\include\assimp\color4.inl
+	"color4.h"
+
+1490901536 c:\program files\assimp\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1490901536 c:\program files\assimp\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1490901536 c:\program files\assimp\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+
+1490901536 c:\program files\assimp\include\assimp\config.h
+
+1490901536 c:\program files\assimp\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1490901536 c:\program files\assimp\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1490901536 c:\program files\assimp\include\assimp\mesh.h
+	"types.h"
+
+1490901536 c:\program files\assimp\include\assimp\light.h
+	"types.h"
+
+1490901536 c:\program files\assimp\include\assimp\camera.h
+	"types.h"
+
+1490901536 c:\program files\assimp\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1490901536 c:\program files\assimp\include\assimp\material.inl
+
+1490901536 c:\program files\assimp\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1490901536 c:\program files\assimp\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<limits.h>
+	<stdint.h>
+	<string>
+
+1490901536 c:\program files\assimp\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<sys/inttypes.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1490901536 c:\program files\assimp\include\assimp\postprocess.h
+	"types.h"
+
+1510319325 source:c:\users\zielu\desktop\c++\opengl\projekt_domyslny\oglmain.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+	<GL/freeglut.h>
+	"glscene.h"
+
+1426340040 c:\users\zielu\desktop\c++\opengl\projekt_domyslny\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437543942 c:\users\zielu\desktop\c++\opengl\projekt_domyslny\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426340040 c:\users\zielu\desktop\c++\opengl\projekt_domyslny\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1510319325 c:\users\zielu\desktop\c++\opengl\projekt_domyslny\glscene.h
+
+1510318598 source:c:\users\zielu\desktop\c++\opengl\projekt_domyslny\glscene.cpp
+	<windows.h>
+	<sstream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	"glscene.h"
+
+1510557880 source:c:\users\zielu\desktop\projekt_domyslny\glscene.cpp
+	<windows.h>
+	<sstream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	"glscene.h"
+
+1426340040 c:\users\zielu\desktop\projekt_domyslny\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437543942 c:\users\zielu\desktop\projekt_domyslny\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426340040 c:\users\zielu\desktop\projekt_domyslny\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1511169993 c:\users\zielu\desktop\projekt_domyslny\glscene.h
+
+1510415555 source:c:\users\zielu\desktop\projekt_domyslny\oglmain.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+	<GL/freeglut.h>
+	"glscene.h"
+
+1511800229 source:c:\users\zielu\desktop\projekt_domyslny - kopia\glscene.cpp
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+	"glscene.h"
+
+1426340040 c:\users\zielu\desktop\projekt_domyslny - kopia\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437543942 c:\users\zielu\desktop\projekt_domyslny - kopia\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426340040 c:\users\zielu\desktop\projekt_domyslny - kopia\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1511297939 c:\users\zielu\desktop\projekt_domyslny - kopia\glscene.h
+	<string>
+
+1511170537 source:c:\users\zielu\desktop\projekt_domyslny - kopia\oglmain.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	"glscene.h"
+
+1514217026 source:c:\users\zielu\desktop\projekt_na_zaliczenie_bat\glscene.cpp
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<string>
+	<cmath>
+	"glscene.h"
+
+1426340040 c:\users\zielu\desktop\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437543942 c:\users\zielu\desktop\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426340040 c:\users\zielu\desktop\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1514217026 c:\users\zielu\desktop\projekt_na_zaliczenie_bat\glscene.h
+	<string>
+	"Model.h"
+	"Tex.h"
+	<ctime>
+	<string>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1514027715 source:c:\users\zielu\desktop\projekt_na_zaliczenie_bat\oglmain.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	"glscene.h"
+	<iostream>
+
+1513981617 c:\users\zielu\desktop\projekt_na_zaliczenie_bat\model.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1513983375 source:c:\users\zielu\desktop\projekt_na_zaliczenie_bat\model.cpp
+	"Model.h"
+
+1513723518 c:\users\zielu\desktop\projekt_na_zaliczenie_bat\tex.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1512680195 source:c:\users\zielu\desktop\projekt_na_zaliczenie_bat\tex.cpp
+	"Tex.h"
+
+1515358412 source:c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\glscene.cpp
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<string>
+	<cmath>
+	"glscene.h"
+
+1426340040 c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437543942 c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426340040 c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1515358933 c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\glscene.h
+	<string>
+	"Model.h"
+	"Tex.h"
+	<ctime>
+	<string>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1513981617 c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\model.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1513723518 c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\tex.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1514411558 source:c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\model.cpp
+	"Model.h"
+
+1514027715 source:c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\oglmain.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	"glscene.h"
+	<iostream>
+
+1512680195 source:c:\users\zielu\desktop\update_batman\projekt_na_zaliczenie_bat\tex.cpp
+	"Tex.h"
+
+1515359292 source:j:\update_batman\projekt_na_zaliczenie_bat\glscene.cpp
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<string>
+	<cmath>
+	"glscene.h"
+
+1426340040 j:\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437543942 j:\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426340040 j:\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1515361393 j:\update_batman\projekt_na_zaliczenie_bat\glscene.h
+	<string>
+	"Model.h"
+	"Tex.h"
+	<ctime>
+	<string>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1513981617 j:\update_batman\projekt_na_zaliczenie_bat\model.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1513723518 j:\update_batman\projekt_na_zaliczenie_bat\tex.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1514411558 source:j:\update_batman\projekt_na_zaliczenie_bat\model.cpp
+	"Model.h"
+
+1514027715 source:j:\update_batman\projekt_na_zaliczenie_bat\oglmain.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	"glscene.h"
+	<iostream>
+
+1512680195 source:j:\update_batman\projekt_na_zaliczenie_bat\tex.cpp
+	"Tex.h"
+
+1515361683 source:h:\update_batman\projekt_na_zaliczenie_bat\glscene.cpp
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<string>
+	<cmath>
+	"glscene.h"
+
+1426340040 h:\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437543942 h:\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426340040 h:\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1515361393 h:\update_batman\projekt_na_zaliczenie_bat\glscene.h
+	<string>
+	"Model.h"
+	"Tex.h"
+	<ctime>
+	<string>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1513981617 h:\update_batman\projekt_na_zaliczenie_bat\model.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1513723518 h:\update_batman\projekt_na_zaliczenie_bat\tex.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1514411558 source:h:\update_batman\projekt_na_zaliczenie_bat\model.cpp
+	"Model.h"
+
+1514027715 source:h:\update_batman\projekt_na_zaliczenie_bat\oglmain.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	"glscene.h"
+	<iostream>
+
+1512680195 source:h:\update_batman\projekt_na_zaliczenie_bat\tex.cpp
+	"Tex.h"
+
+1515365283 source:c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\glscene.cpp
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<string>
+	<cmath>
+	"glscene.h"
+
+1426343640 c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437547542 c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426343640 c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1515364993 c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\glscene.h
+	<string>
+	"Model.h"
+	"Tex.h"
+	<ctime>
+	<string>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1513985217 c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\model.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1513727118 c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\tex.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1514415158 source:c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\model.cpp
+	"Model.h"
+
+1514031315 source:c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\oglmain.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	"glscene.h"
+	<iostream>
+
+1512683795 source:c:\users\gra퓓na\desktop\update_batman\projekt_na_zaliczenie_bat\tex.cpp
+	"Tex.h"
+
+1515361683 source:c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\glscene.cpp
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<string>
+	<cmath>
+	"glscene.h"
+
+1426340040 c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1437543942 c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426340040 c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1515361393 c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\glscene.h
+	<string>
+	"Model.h"
+	"Tex.h"
+	<ctime>
+	<string>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1513981617 c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\model.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1513723518 c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\tex.h
+	<cstdlib>
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/freeglut.h>
+	<gl/glext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
+1514411558 source:c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\model.cpp
+	"Model.h"
+
+1514027715 source:c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\oglmain.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	"glscene.h"
+	<iostream>
+
+1512680195 source:c:\users\gra퓓na\desktop\github\update_batman\projekt_na_zaliczenie_bat\tex.cpp
+	"Tex.h"
+
